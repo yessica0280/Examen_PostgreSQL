@@ -26,6 +26,7 @@ Para poder revisar estos archivos puedes:
 1. Creas la consulta que necesites.
 
 ![image](https://github.com/user-attachments/assets/11e20fe8-1d52-4028-b1a2-f95212a9f1af)
+
 2. en la parte de arriba encontraras una figura con un 1 si quieres ejecutar la consultas das click y luego continuar.
 
 ![image](https://github.com/user-attachments/assets/6c62b90d-848f-47b3-ad00-6933c971002f)
