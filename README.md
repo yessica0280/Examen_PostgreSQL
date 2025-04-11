@@ -22,7 +22,7 @@ Para poder revisar estos archivos puedes:
 * queries.sql: Consta del conjunto de consultas avanzadas para análisis de datos.
 * procedure.sql: Consta de procedimientos para gestionar ventas con transacciones.
 
-## Ejemplos de como ejecutar consultas y procediientos en PostgreSQL
+## Ejemplos de como ejecutar consultas y procedimientos en PostgreSQL
 1. Creas la consulta que necesites.
 
 ![image](https://github.com/user-attachments/assets/11e20fe8-1d52-4028-b1a2-f95212a9f1af)
